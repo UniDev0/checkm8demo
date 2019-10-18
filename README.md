@@ -1,7 +1,7 @@
 # checkm8 (demo)
-Demo structure of checkm8’s iOS Exploit, compatible with iOS 12 and iOS 13.
+Demo structure of checkm8’s iOS Exploit, compatible with iOS 12 and iOS 13 (A11-A12) 
 
-iDevices compatible:
+Compatible iDevices:
 
 iPhone 5s
 iPhone 7
@@ -16,5 +16,9 @@ iPad 7th Gen (2019)
 
 
 iPod Touch 7th Gen (2019)
+
+
+
+Soon I’ll update the list of compatible iDevices
 
 

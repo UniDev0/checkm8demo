@@ -1,5 +1,5 @@
 # checkm8 (demo)
-Demo structure of checkm8’s iOS Exploit, compatible with iOS 12 and iOS 13 (A10-11)
+Demo structure of checkm8’s iOS Exploit, compatible with iOS 12 and iOS 13
 
 Compatible iDevices:
 
